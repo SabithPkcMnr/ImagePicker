@@ -6,10 +6,10 @@
     android:layout_height="match_parent"
     android:layout_margin="20dp"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".ActivityHome">
 
-    <Button
-        style="@style/Widget.AppCompat.Button.Colored"
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:id="@+id/myButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

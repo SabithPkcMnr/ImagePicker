@@ -40,4 +40,5 @@ public class ActivityHome extends AppCompatActivity {
             myImage.setImageURI(data.getData());
         }
     }
+
 }
